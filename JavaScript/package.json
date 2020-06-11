@@ -1,0 +1,17 @@
+{
+  "name": "code_challenges",
+  "version": "1.0.0",
+  "description": "Solve code challenges in different languages, sometimes using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Daniel Dawson",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
